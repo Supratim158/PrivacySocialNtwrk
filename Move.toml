@@ -1,0 +1,17 @@
+[package]
+name = "PrivacySoci3
+3
+33333alNetwork"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule = "0x23916bdd30c71dcc6c063613ea1c7a207e8ccf8c429ff472d7f2de37dfbe79d3"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
